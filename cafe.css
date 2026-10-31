@@ -1,0 +1,43 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    background-color: brown;
+    color: white;
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+h2 {
+    color: brown;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
